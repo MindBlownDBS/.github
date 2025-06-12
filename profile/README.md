@@ -15,10 +15,10 @@ Proyek capstone ini lahir dari pertanyaan utama: Mengapa begitu banyak orang mas
 
 MindBlown membantu pengguna untuk lebih mengenal dan memahami diri melalui fitur-fitur berikut:
 
-✨ Curhat dengan chatbot pintar yang responsif dan empatik
-📚 Menyuarakan cerita serta membaca kisah inspiratif dari pengguna lain
-📊 Melacak mood harian dan kebiasaan, untuk memahami pola emosi dan rutinitas
-🧑‍💼 Mengenal diri lebih dalam melalui dashboard personal yang informatif
+✨ Curhat dengan chatbot pintar yang responsif dan empatik <br>
+📚 Menyuarakan cerita serta membaca kisah inspiratif dari pengguna lain <br>
+📊 Melacak mood harian dan kebiasaan, untuk memahami pola emosi dan rutinitas <br>
+🧑‍💼 Mengenal diri lebih dalam melalui dashboard personal yang informatif <br>
 
 Dengan MindBlown, kami berkomitmen untuk mendorong kesadaran akan pentingnya kesehatan mental melalui pendekatan yang humanis dan berbasis teknologi. Kami berharap aplikasi ini dapat menjadi ruang aman digital — tempat di mana pengguna merasa didengar, didukung, dan tidak sendirian. 🌱
 
